@@ -25,4 +25,5 @@ if __name__ == "__main__":
         for name in files:
             if pattern.search(root):
                 print(root)
+                print(name)
                 print(os.path.join(root, name))
