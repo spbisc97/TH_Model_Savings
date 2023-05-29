@@ -21,5 +21,3 @@
         return float(reward)
 
 ```
-
-done using gamma = 0.9999
