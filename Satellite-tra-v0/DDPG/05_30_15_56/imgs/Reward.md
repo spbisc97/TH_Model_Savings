@@ -32,3 +32,8 @@ and the episodes are reported with deterministic policy
 
 learning is always each 2 episodes
 
+
+
+Maybe there is too much noise added to the function and the agent is not able to learn properly
+
+noise = 0.02
