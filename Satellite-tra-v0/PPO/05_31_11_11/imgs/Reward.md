@@ -21,14 +21,3 @@
         return float(reward)
 
 ```
-
-for the first 3.5e06 steps time limit = 4000
-gamma = 0.999
-plots are done without determinist policy
-
-since step 3533000 the time limit is 5000
-and the episodes are reported with deterministic policy
-
-
-learning is always each 2 episodes
-
